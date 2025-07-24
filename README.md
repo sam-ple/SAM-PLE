@@ -1,5 +1,14 @@
 ## ⭐ Frequently Visited Page
-- [Minescript FAQ (in English)](https://github.com/sam-ple/minecraft/blob/sample/01_minescript/minescript_faq_english.md)
+
+### 📖 Minescript
+
+#### 📘 FAQ
+
+- [Minescript FAQ](https://github.com/sam-ple/minecraft/blob/sample/01_minescript/FAQ.md)
+
+#### 📘 MEMO
+
+- [Minescript Memo](https://github.com/sam-ple/minecraft/blob/sample/01_minescript/README.md)
 
 ## 📈 Status
 <p align="left"> 
