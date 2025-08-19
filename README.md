@@ -1,14 +1,15 @@
-## ⭐ Frequently Visited Page
+## ⭐ Minescript Repositories
 
-### 📖 Minescript
+### 📘 [minescript-sample](https://github.com/sam-ple/minescript-sample)
+Minescript examples and tutorials 🚀 | Using Python & Pyjinn scripting for Minecraft Java Edition.  
 
-#### 📘 FAQ
+### 📘 [minescript-scripts](https://github.com/sam-ple/minescript-scripts)
+A curated collection of completed Minescript scripts, mini-games, and utilities.  
 
-- [Minescript FAQ](https://github.com/sam-ple/minecraft/blob/sample/01_minescript/FAQ.md)
+### 📘 [minescript-memo](https://github.com/sam-ple/minescript-memo)
+Draft scripts, experiments, and personal notes for Minescript development.  
 
-#### 📘 MEMO
-
-- [Minescript Memo](https://github.com/sam-ple/minecraft/blob/sample/01_minescript/README.md)
+---
 
 ## 📈 Status
 <p align="left"> 
