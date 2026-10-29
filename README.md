@@ -19,3 +19,21 @@ Draft scripts, experiments, and personal notes for Minescript development.
 * 🌍 **Website / Docs** → [sam-ple.github.io/minescript-sample](https://sam-ple.github.io/minescript-sample)
 * 📺 **YouTube** → [@sam-ple](https://www.youtube.com/@sam-ple/)
 * 💬 **Discord** → [@crocadooo](https://discord.com/channels/@crocadooo)
+
+---
+
+## 🎮 MinecraftMinigames
+
+- LineRace
+- ArrestWorld
+- MegaCleanup
+- MegaWorks
+- Iron1000
+- WerewolfRPG
+- AdvRace
+- OreRace
+- FarRace
+- MobCatcher
+- SpeedTrials
+- Bingo
+- CRChick
